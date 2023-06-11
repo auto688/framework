@@ -1,0 +1,13 @@
+{
+  "theme": "DARK",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": false,
+  "offlineMode": true,
+  "thumbnailForBase64": true,
+  "documentTitle": "Ridenow Automation",
+  "reportName": "Automation Report",
+  "timeStampFormat": "MMM dd, yyyy HH:mm:ss a",
+  "js": "dcoument.getElementsByClassName('logo')[0].style.display='false'",
+  "css": ".badge-primary{background-color:#7a0000} .badge-success {background-color:#780000} "
+}
